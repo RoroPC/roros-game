@@ -1,0 +1,14 @@
+target/
+*.log
+*.class
+
+# IDE - Eclipse specific
+.classpath
+.project
+.settings/
+*.sublime-workspace
+
+# Ignore settings of other popular IDEs just in case
+.idea/
+*.iml
+.vscode/
